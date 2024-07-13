@@ -14,6 +14,7 @@
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 ad.appier.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 ads.mopub.com
@@ -81,6 +82,7 @@
 0.0.0.0 events-dca.bidder.kayzen.io
 0.0.0.0 ex-na-ice.360yeild.com
 0.0.0.0 ezadplayer.com
+0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 format.tabmo.io
