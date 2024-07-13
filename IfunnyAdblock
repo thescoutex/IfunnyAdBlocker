@@ -16,6 +16,7 @@ ad.doubleclick.net
 ade.googlesyndication.com
 ads.mopub.com
 ads.nexage.com
+adservice.google.com
 an.facebook.com
 api-us.appodealx.com
 api-us.bidmachine.io
@@ -53,6 +54,7 @@ config.ads.vungle.com
 configure-tcp-andriod.mtggloabls.com
 core-b8mf-nocp.tk0x1.com
 core-b8mf.tk0x1.com
+cr.adsappier.com
 cr.imp-bid.com
 crcdn01.adnxs-simple.com
 creative-bunny.bidease.com
@@ -63,11 +65,13 @@ config.inmobi.com
 crashlyticsreports-pa.googleapis.com
 wdd.applovin.com
 d.applvn.com
+d.applovin.com
 dando.excitead.com
 de9a11s35xj3d.cloudfront.net
 dns.msftncsi.com
 e.reddit.com
 et-eus.w.inmobi.com
+et-l.w.inmobi.com
 events.ifunny.co
 entravision.deliveryengine.adswizz.com
 et-l.w.inmobi.com
@@ -85,6 +89,7 @@ gld.youngle.tech
 geo-tracker.smadex.com
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
+googleadservices.com
 got.europe-west4gcp0.pubnative.net
 got.iad3rs0zone1.pubnative.net
 got.iad3rs0zone2.pubnative.net
@@ -93,6 +98,8 @@ got.us-east4gcp0.pubnative.net
 got.us-west1gcp0.pubnative.net
 gotu.tpbid.com
 hbsdk-config.log.smaato.net
+i.l-new.inmobicdn.net
+i.l.inmobicdn.net
 i7gflx-cdn-settings.appsflyerskd.com
 i7gflx-launches.appsflyersdk.com
 ib.2lift.com
@@ -107,8 +114,11 @@ launches.appsflyer.com
 logs.ifunny.co
 loopme-tagan.adlightning.com
 mads.amazon-adsystem.com
+marketingplatform.google.com
 md-a-c.apptimize.com
 ms.applvn.com
+ms.applovin.com
+ms4.applovin.com
 ms4.applovin.comcdn.liftoff.io
 mt.rqtrk.eu
 mtalk.google.com
@@ -127,6 +137,7 @@ pixel.yabidos.com
 prebid-cache.ifunny.co
 prebid.adnxs.com
 prebid.ifunny.co
+prebid-cache.ifunny.co
 prebids.adnsx.com
 presentation-pdx1.turn.com
 prod-mediate-events.applovin.com
@@ -146,6 +157,7 @@ s.iff.inmobi.com
 s.update.adsrvr.org
 sargas.iad-03.braze.com
 sb.scorecardresearch.com
+sdk-events.inner-active.mobi
 secure-gg.imrworldwide.com
 secure-gl.imrworldwide.com
 secure.insightexpressai.com
