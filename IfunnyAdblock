@@ -30,7 +30,7 @@
 0.0.0.0 api.carbonapix.com
 0.0.0.0 api.ezadplayer.com
 0.0.0.0 api.facebook.com
-0.0.0.0 api.ifnapp.com
+# 0.0.0.0 api.ifnapp.com # this is required for the app to load
 0.0.0.0 app.adjust.com
 0.0.0.0 app.appsflyer.com
 0.0.0.0 apps.sascdn.com
