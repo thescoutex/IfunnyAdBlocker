@@ -1,4 +1,4 @@
 # IfunnyAdBlocker
-Updated ifunny adblocker for early 2024
+Updated ifunny adblocker for July 2024
 
-shits broke
+Works for AdAway and other local ad blockers that can be installed on the device without root access.
