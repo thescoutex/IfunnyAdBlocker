@@ -29,6 +29,8 @@
 0.0.0.0 api.bytegle.site
 0.0.0.0 api.carbonapix.com
 0.0.0.0 api.ezadplayer.com
+0.0.0.0 api.facebook.com
+0.0.0.0 api.ifnapp.com
 0.0.0.0 app.adjust.com
 0.0.0.0 app.appsflyer.com
 0.0.0.0 apps.sascdn.com
@@ -71,6 +73,7 @@
 0.0.0.0 d.applovin.com
 0.0.0.0 dando.excitead.com
 0.0.0.0 de9a11s35xj3d.cloudfront.net
+0.0.0.0 developers.facebook.com
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 e.reddit.com
 0.0.0.0 et-eus.w.inmobi.com
@@ -101,6 +104,7 @@
 0.0.0.0 got.us-east4gcp0.pubnative.net
 0.0.0.0 got.us-west1gcp0.pubnative.net
 0.0.0.0 gotu.tpbid.com
+0.0.0.0 graph.facebook.com
 0.0.0.0 hbsdk-config.log.smaato.net
 0.0.0.0 i.l-new.inmobicdn.net
 0.0.0.0 i.l.inmobicdn.net
