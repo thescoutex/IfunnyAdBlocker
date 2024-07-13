@@ -1,4 +1,6 @@
 # This is a test of the list, seems to work
+# This is a list of hosts that are required for the app to function:
+#     api.ifnapp.com
 
 0.0.0.0 a-iad.1.rx.io
 0.0.0.0 a-pdx.1rx.io
@@ -30,7 +32,6 @@
 0.0.0.0 api.carbonapix.com
 0.0.0.0 api.ezadplayer.com
 0.0.0.0 api.facebook.com
-# 0.0.0.0 api.ifnapp.com # this is required for the app to load
 0.0.0.0 app.adjust.com
 0.0.0.0 app.appsflyer.com
 0.0.0.0 apps.sascdn.com
