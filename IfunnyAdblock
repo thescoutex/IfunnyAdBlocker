@@ -44,6 +44,7 @@
 0.0.0.0 audioad.zenomedia.com
 0.0.0.0 beacons.rapidbidding.com
 0.0.0.0 beacons5.gvt3.com
+0.0.0.0 beacon-sjc2.rubiconproject.com
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.adservertq.com
@@ -115,7 +116,7 @@
 0.0.0.0 hbsdk-config.log.smaato.net
 0.0.0.0 i.l-new.inmobicdn.net
 0.0.0.0 i.l.inmobicdn.net
-0.0.0.0 i7gflx-cdn-settings.appsflyerskd.com
+0.0.0.0 i7gflx-cdn-settings.appsflyersdk.com
 0.0.0.0 i7gflx-launches.appsflyersdk.com
 0.0.0.0 ib.2lift.com
 0.0.0.0 img.turncdn.com
@@ -234,5 +235,7 @@
 0.0.0.0 x.blueduckredapple.com
 0.0.0.0 x.everestop.io
 0.0.0.0 x.mdhv.io
+0.0.0.0 y.mdhv.io
+0.0.0.0 z.mdhv.io
 0.0.0.0 x.thecatmachine.com
 0.0.0.0 z.moatads.com
