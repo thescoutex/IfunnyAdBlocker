@@ -11,6 +11,7 @@
 0.0.0.0 a.synglosory.com
 0.0.0.0 a5.adserv-us.com
 0.0.0.0 a628.casalemedia.com
+0.0.0.0 ad-host-backup-america.s3.us-west-1.amazonaws.com
 0.0.0.0 ads.imp-bid.com
 0.0.0.0 ads.mygrocerdeals.com
 0.0.0.0 ads.smt-bid.com
@@ -35,6 +36,7 @@
 0.0.0.0 api.carbonapix.com
 0.0.0.0 api.ezadplayer.com
 0.0.0.0 api.facebook.com
+0.0.0.0 api.revenuads.com
 0.0.0.0 app.adjust.com
 0.0.0.0 app.appsflyer.com
 0.0.0.0 apps.sascdn.com
@@ -45,6 +47,7 @@
 0.0.0.0 beacons.rapidbidding.com
 0.0.0.0 beacons5.gvt3.com
 0.0.0.0 beacon-sjc2.rubiconproject.com
+0.0.0.0 bidderv.com
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.adservertq.com
